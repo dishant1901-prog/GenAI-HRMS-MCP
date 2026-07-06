@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.idea
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# UV
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
